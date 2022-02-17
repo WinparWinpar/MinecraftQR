@@ -1,1 +1,2 @@
-# MinecraftQR
+# Minecraft QR Code
+
